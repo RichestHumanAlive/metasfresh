@@ -319,5 +319,4 @@ public class REST_API_StepDef
 
 		testContext.setVariable(variableName, value);
 	}
-
 }
